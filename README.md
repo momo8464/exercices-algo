@@ -30,4 +30,4 @@ Les programmes sont écrits et testés avec les apps mobiles **MyC** (pour le C)
 ## 👤 Auteur
 
 **Koné Mohamed**
-Étudiant en BTS IDA — ETIC 2 Plateaux (soutenance 2026)
+Titulaire d'un BTS en IDA (a soutenir pour validation du diplôme)
