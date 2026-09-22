@@ -1,0 +1,11 @@
+const mot= prompt("Entrez un mot: ")
+function palindrome(){
+    const morceau= mot.split("")
+    const renverser = morceau.reverse()
+    return motfinal= renverser.join("")
+}
+if (palindrome()=== mot){
+    console.log(`${mot} est un palindrome`)
+}else{
+    console.log(`${mot} n\'est pas un palindrome`)
+}
